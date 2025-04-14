@@ -19,7 +19,6 @@ html {
 body {
   font-family: "Poppins", sans-serif;
   background-color: v.$bg-color;
-  color: v.$secondary-color;
   line-height: 1.6;
   transition: background-color v.$transition-normal;
   @include fade-in;
